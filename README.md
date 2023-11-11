@@ -1,10 +1,29 @@
-# Vision-Pro-Quest-AR-VR-XR-AI
+# Adventures in AR VR XR AI code &amp; research - VisionOS, iOS, ARfoundation, Oculus, ChatGPT, OpenCV, ML
 
-Adventures in AR VR XR AI code &amp; research - VisionOS, iOS, ARfoundation, Oculus, ChatGPT, OpenCV, ML
+Our interest lies at the intersection of virtual & real, mind & matter, imagination & manifestation and the 
+New possibilities for collaborative creativity, education & problem solving
+Radical new forms of storytelling & data visualization
+Magic & play made possible by AR, VR, XR & AI
+
+![a438ce65-b962-4ac6-aaf7-2d66373e2039-1](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/d83fe627-c9df-4040-bbbe-d8d705d223ba)
+
+Spatial computing is THE next major paradigm shift
+Moving from tiny screens to VR to AR to R(eality) 
+Broadening horizons & augmenting life and 
+Transforming us & the universe forever.
+
+![skinned-mesh-sampling-example](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/b3411303-ddd1-42e3-9f3f-4ddd6992c9ee)
+![banner001](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/9e8ed196-333c-40e8-b922-2c52e7c7f189)
+forever.
+![Demo](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/e6ca3147-0f09-42db-bd5a-0b32abe61dd0)
+![68747470733a2f2f692e696d6775722e636f6d2f546b31496c4f622e676966](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/04c44ed6-36f6-42a0-8f5b-bc7168f9c0c0)
+
 ![1_wv65L5KTi2kKjItLat-JvA](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/6ec3583f-4422-40a3-b105-a16013c8b985)
 
 https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432f-ab17-a6405a279280
 ![shared-spaces~dark@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/4f06045b-4f77-4822-a801-901c9465cc0e)
+
+![ntugrid_neg](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/726a7494-f581-4c50-af82-d2775a561fc1)
 
 ![1_EFbxxoPRymjGCYUshrrvcQ](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/8727b45b-6ce2-4c2f-8e96-51d7794c2fcc)
 ![1_iiLBjfJiyR2pTv8AWCUx9A](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/8e6cde41-1501-41ec-9c97-cbcf88e95377)
@@ -12,10 +31,6 @@ https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432
 ![overview@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/bb494909-af7a-49a6-a98b-0bd8dcccb52b)
 
 
-![a438ce65-b962-4ac6-aaf7-2d66373e2039-1](https://github.com/imclab/Vision-Pro-Quest-AR-VR-XR-AI/assets/391299/dcaefa29-fbc2-416f-b854-3841b79d2cb6)
-![ntugrid_neg](https://github.com/imclab/Vision-Pro-Quest-AR-VR-XR-AI/assets/391299/601e5711-6c91-46ab-bf3d-4065d683e743)
-![demo](https://github.com/imclab/Vision-Pro-Quest-AR-VR-XR-AI/assets/391299/6de166ad-f328-4e58-a5b2-b291dccafbf1)
-![demo 2](https://github.com/imclab/Vision-Pro-Quest-AR-VR-XR-AI/assets/391299/14fbf8bd-1dd4-4e64-aef6-9e566e9f5f6e)
 
 
 ## Apple Vision Pro Headset
