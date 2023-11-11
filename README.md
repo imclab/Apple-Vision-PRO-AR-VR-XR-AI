@@ -110,12 +110,12 @@ https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432
 
 
 
-| Left-aligned |  Right-aligned |
-| :---         |           ---: |
-| [Join Our Discord](https://discord.gg/6QkcjWkT3P)   |  [Check Our Gram](https://www.instagram.com/theimclab)    |
-| https://discord.gg/6QkcjWkT3P   |   https://www.instagram.com/theimclab   |
+|  [Join Our Discord](https://discord.gg/6QkcjWkT3P) |    [Check Our Gram](https://www.instagram.com/theimclab) |
+| :---                                               |                                                     ---: |
+|                                                    |                                                          |
+|   https://discord.gg/6QkcjWkT3P                    |    https://www.instagram.com/theimclab                   |
+|   ![Untitled](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/a0f1fede-29d2-4e47-b44b-18503802c8c2)   |   ![toppng com-instagram-logo-icon-social-media-icon-png-and-vector-make-money-on-instagram-quick-start-guide-small](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/64a0fc8a-af7d-4030-83d1-e81fcb258eba)   |
 
-[![discord-logo-115938691670xogiq26jl](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/66fd91ba-8159-43e5-b1f1-f305a260d81e)](https://discord.gg/6QkcjWkT3P)
 
 
 ## ### Video Tutorials
