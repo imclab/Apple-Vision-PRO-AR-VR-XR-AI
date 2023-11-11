@@ -113,10 +113,7 @@ https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432
 | Left-aligned |  Right-aligned |
 | :---         |           ---: |
 | [Join Our Discord](https://discord.gg/6QkcjWkT3P)   |  [Check Our Gram](https://www.instagram.com/theimclab)    |
-| [![discord-logo-115938691670xogiq26jl](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/66fd91ba-8159-43e5-b1f1-f305a260d81e)](https://discord.gg/6QkcjWkT3P)
-     |  [![instagram-logo-icon-social-media-icon-png-and-vector-make-money-on-instagram-quick-start-guide-115629159264blxijptnr-1](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/c4b416ce-f81b-43a0-9d5d-8f6e52b6c674)](https://www.instagram.com/theimclab)      |
-
-
+| https://discord.gg/6QkcjWkT3P   |   https://www.instagram.com/theimclab   |
 
 [![discord-logo-115938691670xogiq26jl](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/66fd91ba-8159-43e5-b1f1-f305a260d81e)](https://discord.gg/6QkcjWkT3P)
 
