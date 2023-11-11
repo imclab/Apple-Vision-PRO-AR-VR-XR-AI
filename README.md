@@ -109,9 +109,10 @@ https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432
 ![overview@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/bb494909-af7a-49a6-a98b-0bd8dcccb52b)
 
 
-Joing our Discord
+Join our Discord
 
 https://discord.gg/6QkcjWkT3P
+
 ![images](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/4d245a94-b6df-44f5-b2c0-8a8106844894)
 
 ## ### Video Tutorials
