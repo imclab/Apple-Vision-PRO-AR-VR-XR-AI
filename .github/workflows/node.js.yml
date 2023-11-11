@@ -1,0 +1,87 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+
+name: Node.js CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x, 16.x, 18.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - run: npm ci
+    - run: npm run build --if-present
+    - run: npm test
+
+
+- name: Discord Message Notify
+  # You may pin to the exact commit or the version.
+  # uses: appleboy/discord-action@2f22cc6543f3417715c96908c498958c552698f0
+  uses: appleboy/discord-action@v1.0.0
+  with:
+    # discord webhook id
+    webhook_id: 
+    # discord webhook token
+    webhook_token: 
+    # the message contents (up to 2000 characters)
+    message: # optional
+    # the contents of the file being sent
+    file: # optional
+    # color code of the embed
+    color: # optional
+    # waits for server confirmation of message send before response, and returns the created message body
+    wait: # optional
+    # true if this is a TTS message
+    tts: # optional
+    # override the default username of the webhook
+    username: # optional
+    # override the default avatar of the webhook
+    avatar_url: # optional
+
+
+    - name: Slack Web API client
+  # You may pin to the exact commit or the version.
+  # uses: stopa323/slack-web-client@1ed99455fdeec8627900f41f44be61f9eb7d58f2
+  uses: stopa323/slack-web-client@v1.0
+  with:
+    # Slack bot user token.
+    slackToken: 
+    # Name of the Slack web-api method to call
+    slackAPIMethod: # default is chat.postMessage
+    # JSON-formated arguments passed to method
+    slackMethodArgs: # default is {}
+
+    - name: Unreal Game Version Updater
+  # You may pin to the exact commit or the version.
+  # uses: Benbentwo/UnrealGameVersionUpdater@e4c1c588dfb546b74f65ad6026f2c0255abc6c29
+  uses: Benbentwo/UnrealGameVersionUpdater@0.1.0
+  with:
+    # What to set the version to
+    version: 
+    # verbose logging
+    verbose: # optional
+
+    - name: consumable-code-news-api
+  # You may pin to the exact commit or the version.
+  # uses: amirisback/consumable-code-news-api@6cafb240ee6ef59197c2f67d88b66c534f85f5da
+  uses: amirisback/consumable-code-news-api@1.0.7
+  with:
+    # Input to use
+    myInput: # optional, default is world
