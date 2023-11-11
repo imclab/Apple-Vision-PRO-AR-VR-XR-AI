@@ -1,5 +1,5 @@
 ### AR VR XR AI code, learning & research 
-##VisionOS, iOS, ARfoundation, Oculus, ChatGPT, OpenCV, ML
+## VisionOS, iOS, ARfoundation, Oculus, ChatGPT, OpenCV, ML
 
 #Our interest lies at the intersection of virtual & real, mind & matter, imagination & manifestation and the 
 New possibilities for collaborative creativity, education & problem solving
@@ -7,7 +7,7 @@ Radical new forms of storytelling & data visualization
 Magic & play made possible by AR, VR, XR & AI
 ![a438ce65-b962-4ac6-aaf7-2d66373e2039-1](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/d83fe627-c9df-4040-bbbe-d8d705d223ba)
 
-##Spatial computing is THE next major paradigm shift
+## Spatial computing is THE next major paradigm shift
 Moving from tiny screens to VR to AR to R(eality) 
 Broadening horizons & augmenting life and 
 Transforming us & the universe forever. 
@@ -25,7 +25,7 @@ Pricing and Availability: Starting at $3,499, available early next year in the U
 [https://developer.apple.com/visionos/developer-kit/](https://developer.apple.com/visionos/developer-kit/)Apple Vision Pro developer kit
 Have an innovative idea for an app or game for visionOS that requires building and testing on Apple Vision Pro? Apply for an Apple Vision Pro developer kit. This kit will help you deliver amazing spatial experiences by letting you quickly build, iterate, and test on Vision Pro.
 
-#Apply for Unity Polyspatial Beta
+# Apply for Unity Polyspatial Beta
 [https://create.unity.com/spatial](https://create.unity.com/spatial)
 UNITY’S BETA PROGRAM FOR CREATING SPATIAL EXPERIENCES
 Get started with spatial creation
@@ -107,6 +107,11 @@ https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432
 ![1_iiLBjfJiyR2pTv8AWCUx9A](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/8e6cde41-1501-41ec-9c97-cbcf88e95377)
 
 ![overview@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/bb494909-af7a-49a6-a98b-0bd8dcccb52b)
+
+
+Joing our Discord
+https://discord.gg/6QkcjWkT3P
+![images](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/4d245a94-b6df-44f5-b2c0-8a8106844894)
 
 ## ### Video Tutorials
 | Left-aligned |  Right-aligned |
