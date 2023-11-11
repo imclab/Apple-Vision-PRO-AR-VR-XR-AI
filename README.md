@@ -32,14 +32,16 @@ Get started with spatial creation
 Be the first to create for Apple’s visionOS platform
 Unity is excited to collaborate with Apple to bring familiar and powerful authoring tools for creating immersive games and apps for this new spatial computing platform, Apple Vision Pro. Your apps will get access to benefits such as pass-through and Dynamic Foveated Rendering, in addition to popular Unity features like AR Foundation and XR Interaction Toolkit.
 
-## VisionOS
-![VisionOS Interface](https://www.apple.com/visionos/interface.jpg)  
+## VisionOS 
 The operating system for Apple Vision Pro. Use visionOS with familiar tools to build immersive apps and games.
 
 ### Features
 - Windows: Create with SwiftUI, add 3D content.
 - Volumes: Use RealityKit or Unity for 3D experiences.
 - Spaces: Shared Space for side-by-side apps, Full Space for immersive experiences.
+
+![1_iiLBjfJiyR2pTv8AWCUx9A](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/8e6cde41-1501-41ec-9c97-cbcf88e95377)
+
 
 **Developing for visionOS**: Requires a Mac with Apple silicon.  
 [Get started with visionOS](https://www.apple.com/visionos/get-started)
@@ -104,7 +106,6 @@ https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432
 ![ntugrid_neg](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/726a7494-f581-4c50-af82-d2775a561fc1)
 
 ![1_EFbxxoPRymjGCYUshrrvcQ](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/8727b45b-6ce2-4c2f-8e96-51d7794c2fcc)
-![1_iiLBjfJiyR2pTv8AWCUx9A](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/8e6cde41-1501-41ec-9c97-cbcf88e95377)
 
 ![overview@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/bb494909-af7a-49a6-a98b-0bd8dcccb52b)
 
