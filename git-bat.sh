@@ -19,7 +19,7 @@ function staged_size {
 function commit_and_push {
     handle_missing_lfs_files
     git commit -m "Batch commit"
-    git push -u origin main
+    git push -u origin main --force
     echo "Waiting for 3 minutes before the next operation..."
     sleep 180
     total_size=0
