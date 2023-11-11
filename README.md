@@ -109,7 +109,10 @@ https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432
 ![overview@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/bb494909-af7a-49a6-a98b-0bd8dcccb52b)
 
 
-Join our Discord
+| Left-aligned |  Right-aligned |
+| :---         |           ---: |
+| ![toppng com-instagram-logo-icon-social-media-icon-png-and-vector-make-money-on-instagram-quick-start-guide-small](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/b42e4097-383a-4098-ae0a-e4c909e55335)
+  | ![Untitled](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/8706a7ca-f48a-4d4d-98d6-8e1fb6370873) |
 
 https://discord.gg/6QkcjWkT3P
 
