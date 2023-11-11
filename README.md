@@ -1,16 +1,16 @@
 # Adventures in AR VR XR AI code &amp; research - VisionOS, iOS, ARfoundation, Oculus, ChatGPT, OpenCV, ML
 
 Our interest lies at the intersection of virtual & real, mind & matter, imagination & manifestation and the 
-New possibilities for collaborative creativity, education & problem solving
-Radical new forms of storytelling & data visualization
-Magic & play made possible by AR, VR, XR & AI
+	New possibilities for collaborative creativity, education & problem solving
+	Radical new forms of storytelling & data visualization
+	Magic & play made possible by AR, VR, XR & AI
 
 ![a438ce65-b962-4ac6-aaf7-2d66373e2039-1](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/d83fe627-c9df-4040-bbbe-d8d705d223ba)
 
 Spatial computing is THE next major paradigm shift
-Moving from tiny screens to VR to AR to R(eality) 
-Broadening horizons & augmenting life and 
-Transforming us & the universe forever.
+	Moving from tiny screens to VR to AR to R(eality) 
+	Broadening horizons & augmenting life and 
+	Transforming us & the universe forever.
 
 ![skinned-mesh-sampling-example](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/b3411303-ddd1-42e3-9f3f-4ddd6992c9ee)
 ![banner001](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/9e8ed196-333c-40e8-b922-2c52e7c7f189)
