@@ -58,7 +58,7 @@ Build your app’s 3D content with [RealityKit](https://developer.apple.com/docu
 People can select an element by looking at it and tapping their fingers together. They can also pinch, drag, zoom, and rotate objects using specific hand gestures. [SwiftUI](https://developer.apple.com/documentation/SwiftUI) provides built-in support for these standard gestures, so rely on them for most of your app’s input. When you want to go beyond the standard gestures, use [ARKit](https://developer.apple.com/documentation/arkit) to create custom gestures.
 <img width="1245" alt="Screenshot 2023-11-11 at 4 52 07 AM" src="https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/d376ea83-cc2b-48c9-9d08-e9b678a3f65d">
 
-##Dive into Apple's code examples
+## Get Apple's Code
 These run XCode & Simulator with no need for a device yet.
 [Dive into featured sample apps](https://developer.apple.com/documentation/visionos#Dive-into-featured-sample-apps)
 Explore the core concepts for all visionOS apps with Hello World. Understand how to detect custom gestures using ARKit with Happy Beam. Discover streaming 2D and stereoscopic media with Destination Video. And learn how to build 3D scenes with RealityKit and Reality Composer Pro with Diorama and Swift Splash.
@@ -83,7 +83,7 @@ Design scenes for your visionOS app using Reality Composer Pro.
 Use RealityKit to create an interactive ride in visionOS.
 ![Swift-Splash-intro@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/6874e708-a55a-438a-806b-83e000b8b9a7)
 
-##Create immersive Unity apps
+## Create immersive Unity apps
 Explore how you can use Unity to create engaging and immersive experiences for visionOS. We'll share how Unity integrates seamlessly with Apple frameworks, take you through the tools you can use to build natively for the platform, and show you how volume cameras can bring your existing scenes into visionOS windows, volumes, and spaces. Discover how to incorporate visionOS features like passthrough and scene understanding, customize your visuals with Shader Graph, and adapt your interactions to work with spatial input.
 https://developer.apple.com/videos/play/wwdc2023/10088
 
