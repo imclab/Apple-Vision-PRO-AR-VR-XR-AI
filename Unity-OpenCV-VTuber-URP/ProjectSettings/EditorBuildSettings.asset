@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Examples/Advanced/AlphaBlendingExample/AlphaBlendingExample.unity
+    guid: caa7411245a5de04f9933825040daea2
+  - enabled: 1
+    path: Assets/Examples/ContribModules/aruco/ArUcoExample/ArUcoCameraCalibrationExample.unity
+    guid: b811885e9cec5f5438428d512d9c1316
+  - enabled: 1
+    path: Assets/Examples/ContribModules/aruco/ArUcoExample/ArUcoCreateMarkerExample.unity
+    guid: f7d709cffc100ff4296ba0c543fe0778
+  - enabled: 1
+    path: Assets/Examples/ContribModules/aruco/ArUcoExample/ArUcoExample.unity
+    guid: 89e1e0e7cb778a9459dc29461ecb3007
+  - enabled: 1
+    path: Assets/Examples/ContribModules/aruco/ArUcoExample/ArUcoWebCamTextureExample.unity
+    guid: 341aba2f1628bc049af49cd0dda3a513
+  - enabled: 1
+    path: Assets/Examples/MainModules/objdetect/FaceDetectionExample/AsynchronousFaceDetectionWebCamTextureExample.unity
+    guid: 2e1a0cc040ce66645ae70149a768eae9
+  - enabled: 1
+    path: Assets/Examples/MainModules/video/BackgroundSubtractorComparisonExample/BackgroundSubtractorComparisonExample.unity
+    guid: 386e6f7c754ad8a44a6aa0544d1433b6
+  - enabled: 1
+    path: Assets/Examples/ContribModules/barcode/BarcodeDetectorExample/BarcodeDetectorExample.unity
+    guid: d75e76163a4fbec4c97d2578199fec95
+  - enabled: 1
+    path: Assets/Examples/ContribModules/barcode/BarcodeDetectorExample/BarcodeDetectorWebCamTextureExample.unity
+    guid: 09025ad6ba9aa664e9a83143f09dd8bd
+  - enabled: 1
+    path: Assets/Examples/MainModules/video/CamShiftExample/CamShiftExample.unity
+    guid: 8761a325605944649b54eca5ab612765
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgproc/CircleDetectionExample/CircleDetectionExample.unity
+    guid: 946c30e63aee0504aaaca98da0aaf16d
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/ColorizationExample/ColorizationExample.unity
+    guid: f9a2cb2e19e443040b346c9657bb7bc4
+  - enabled: 1
+    path: Assets/Examples/Advanced/ComicFilterExample/ComicFilterExample.unity
+    guid: 7a8897045abc2a449b1a5b34ed58315a
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgproc/ConnectedComponentsExample/ConnectedComponentsExample.unity
+    guid: f321aad919a65314abde091d39c4f871
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgproc/ConvexHullExample/ConvexHullExample.unity
+    guid: 8eaa86e409870a5488e0c6d9ad5d5027
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/DaSiamRPNTrackerExample/DaSiamRPNTrackerExample.unity
+    guid: 01c7358ef72e44f46b1a0b8c669a3b39
+  - enabled: 1
+    path: Assets/Examples/Advanced/DocumentScannerExample/DocumentScannerExample.unity
+    guid: 78d803b688d792c4db6e27ebfa5da6d4
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgproc/DrawingExample/DrawingExample.unity
+    guid: b062cf2b7d39d39479c9fc123d0b3b2b
+  - enabled: 1
+    path: Assets/Examples/MainModules/objdetect/FaceDetectionExample/FaceDetectionExample.unity
+    guid: 994e2a8415f0555408dc004bae6b6ad9
+  - enabled: 1
+    path: Assets/Examples/MainModules/objdetect/FaceDetectionExample/FaceDetectionWebCamTextureExample.unity
+    guid: b919173e8cf11294f8086fea738589da
+  - enabled: 1
+    path: Assets/Examples/MainModules/objdetect/FaceDetectorYNExample/FaceDetectorYNWebCamTextureExample.unity
+    guid: c63adffd16329aa43a5203a5c4abfeb9
+  - enabled: 1
+    path: Assets/Examples/ContribModules/face/FaceMarkExample/FaceMarkExample.unity
+    guid: 6be2475499ae7704bb49ffdcd3e70421
+  - enabled: 1
+    path: Assets/Examples/ContribModules/face/FaceRecognizerExample/FaceRecognizerExample.unity
+    guid: dbdc400fca76d4c48be28d420e9567a9
+  - enabled: 1
+    path: Assets/Examples/MainModules/objdetect/FaceRecognizerSFExample/FaceRecognizerSFExample.unity
+    guid: 10f08a42c52297d439f4f7d781fd70cc
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/FastNeuralStyleTransferExample/FastNeuralStyleTransferExample.unity
+    guid: 2ceefa06bd702634694989f63669e7c1
+  - enabled: 1
+    path: Assets/Examples/MainModules/features2d/Feature2DExample/Feature2DExample.unity
+    guid: 9072476ccbb7ca54c814777bc09bb45a
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgproc/GrabCutExample/GrabCutExample.unity
+    guid: 444fe176339711f4f95608bb267c1fec
+  - enabled: 1
+    path: Assets/Examples/Advanced/GreenScreenExample/GreenScreenExample.unity
+    guid: 593e6280a9f101b4fbf4baeed9034b77
+  - enabled: 1
+    path: Assets/Examples/Advanced/HandPoseEstimationExample/HandPoseEstimationExample.unity
+    guid: 208ac987d76a61e48b551f8d55a2cfd5
+  - enabled: 1
+    path: Assets/Examples/MainModules/objdetect/HOGDescriptorExample/HOGDescriptorExample.unity
+    guid: bdb0925c592f5c54b893fe383467619e
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgproc/HoughLinesPExample/HoughLinesPExample.unity
+    guid: 856fdfce392216c4087f54d75447eb85
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgcodecs/ImwriteScreenCaptureExample/ImwriteScreenCaptureExample.unity
+    guid: 7a13aa9591357b548b7aba2bef8f4770
+  - enabled: 1
+    path: Assets/Examples/MainModules/photo/InpaintExample/InpaintExample.unity
+    guid: bd9118cd950f321468a54c2325be8e55
+  - enabled: 1
+    path: Assets/Examples/MainModules/video/KalmanFilterExample/KalmanFilterExample.unity
+    guid: 2c3266f39a2c98043a4d834216b4caa0
+  - enabled: 1
+    path: Assets/Examples/MainModules/core/KMeansClusteringExample/KMeansClusteringExample.unity
+    guid: 8272411d50e6b444f852057d2e834ddc
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/LibFaceDetectionV2Example/LibFaceDetectionV2Example.unity
+    guid: 39f28ad164c5fc645aea831a25ccb910
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/LibFaceDetectionV3Example/LibFaceDetectionV3Example.unity
+    guid: fb83be332100c7b40928aafe39c0cf76
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/MaskRCNNExample/MaskRCNNExample.unity
+    guid: 5b3f6c3677ed44043bba523a8213f03e
+  - enabled: 1
+    path: Assets/Examples/Basic/MatBasicProcessingExample/MatBasicProcessingExample.unity
+    guid: 021fb2d52c0f146468dc1d60156f9762
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgproc/MatchShapesExample/MatchShapesExample.unity
+    guid: 4225fd0f43c1783479d8605bc554b142
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgproc/MatchTemplateExample/MatchTemplateExample.unity
+    guid: 2f9f5372b70d47445bd79c988efb0724
+  - enabled: 1
+    path: Assets/Examples/Advanced/MatToTextureInRenderThreadExample/MatToTextureInRenderThreadExample.unity
+    guid: 4bbd70fe8dfbee54a9bfa108fd5aea7c
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/MobileNetSSDExample/MobileNetSSDExample.unity
+    guid: 36fa8f9a946942d49a29ede28ed14320
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/MobileNetSSDExample/MobileNetSSDWebCamTextureExample.unity
+    guid: b385dc6665ff3b846843496a9ba22eb0
+  - enabled: 1
+    path: Assets/Examples/MainModules/features2d/MSERExample/MSERExample.unity
+    guid: 73c81855a9f1b9c4ca87d817fde441d8
+  - enabled: 1
+    path: Assets/Examples/Advanced/MultiObjectTrackingBasedOnColorExample/MultiObjectTrackingBasedOnColorExample.unity
+    guid: 5a1c56649093e524789f6393e0ba99c1
+  - enabled: 1
+    path: Assets/Examples/OpenCVForUnityExample.unity
+    guid: c1089b6c5cb5b0742be92732f5bdc172
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/OpenPoseExample/OpenPoseExample.unity
+    guid: ed60724950a60704c81c96468c619092
+  - enabled: 1
+    path: Assets/Examples/MainModules/video/OpticalFlowExample/OpticalFlowExample.unity
+    guid: d675d4f84aeebce4a959b111db033294
+  - enabled: 1
+    path: Assets/Examples/MainModules/core/PCAExample/PCAExample.unity
+    guid: 056c7d76f1ec24144b2688fb83bb24e9
+  - enabled: 1
+    path: Assets/Examples/ContribModules/plot/PlotExample/PlotExample.unity
+    guid: 72e09702e6a1b364783a086e4b58dff3
+  - enabled: 1
+    path: Assets/Examples/Advanced/PolygonFilterExample/PolygonFilterExample.unity
+    guid: 25919b317f23af642b03bfbc41105a0f
+  - enabled: 1
+    path: Assets/Examples/MainModules/objdetect/QRCodeDetectorExample/QRCodeDetectorExample.unity
+    guid: 3463718e76ea12d4a8845b409d3c5bdc
+  - enabled: 1
+    path: Assets/Examples/MainModules/objdetect/QRCodeDetectorExample/QRCodeDetectorWebCamTextureExample.unity
+    guid: 5503d96b7a70b4b40a98821b9f043bc8
+  - enabled: 1
+    path: Assets/Examples/MainModules/objdetect/QRCodeEncoderExample/QRCodeEncoderExample.unity
+    guid: 62e649723a1155b4e8465203038790a8
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/ResnetSSDFaceDetectionExample/ResnetSSDFaceDetectionExample.unity
+    guid: f3c7df9da45c1e645b273e39e98ed8de
+  - enabled: 1
+    path: Assets/Examples/MainModules/photo/SeamlessCloneExample/SeamlessCloneExample.unity
+    guid: 5769e572661c44c4b9cd01e2b0c387bb
+  - enabled: 1
+    path: Assets/Examples/ShowLicense.unity
+    guid: eb34810e3e19dc345b1f0be0bf793d5f
+  - enabled: 1
+    path: Assets/Examples/ShowSystemInfo.unity
+    guid: 42ae57bf137440946a42849763a28437
+  - enabled: 1
+    path: Assets/Examples/MainModules/features2d/SimpleBlobExample/SimpleBlobExample.unity
+    guid: 92c7f15c9b5ba4b41b03052cf282a50f
+  - enabled: 1
+    path: Assets/Examples/MainModules/calib3d/StereoBMExample/StereoBMExample.unity
+    guid: e2d0758f5aea81b4b8c10c9017ad96e3
+  - enabled: 1
+    path: Assets/Examples/MainModules/ml/SVMExample/SVMExample.unity
+    guid: cb6a8057d4d42c04596462f75bd2c124
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/TensorflowInceptionExample/TensorflowInceptionWebCamTextureExample.unity
+    guid: b07aa22eb14fe754e8def5a86d57a1c6
+  - enabled: 1
+    path: Assets/Examples/ContribModules/text/TextExample/TextDetectionExample.unity
+    guid: d11b60e4a3b274648be03cedd4b584f2
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/TextOCRExample/TextOCRExample.unity
+    guid: 54e64474d71266442ad4d60455340d0d
+  - enabled: 1
+    path: Assets/Examples/ContribModules/text/TextExample/TextRecognitionExample.unity
+    guid: d5aa146cb845fa9498d5c811cca0c21f
+  - enabled: 1
+    path: Assets/Examples/Basic/Texture2DToMatExample/Texture2DToMatExample.unity
+    guid: b94bd88ac03377444b5e30870dfd377a
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgproc/ThresholdExample/ThresholdExample.unity
+    guid: 58b11a7e9e914984d924923d0847825c
+  - enabled: 1
+    path: Assets/Examples/ContribModules/tracking/TrackingExample/TrackingExample.unity
+    guid: 52d8921b70cdf1949b810e5c7ddab47a
+  - enabled: 1
+    path: Assets/Examples/Basic/Utils_GetFilePathExample/Utils_GetFilePathExample.unity
+    guid: b802cf1a120d5814f90f50cbb84ee605
+  - enabled: 1
+    path: Assets/Examples/MainModules/videoio/VideoCaptureCameraInputExample/VideoCaptureCameraInputExample.unity
+    guid: c32d4c83eb8c05b4ba708665112ca75f
+  - enabled: 1
+    path: Assets/Examples/MainModules/videoio/VideoCaptureExample/VideoCaptureExample.unity
+    guid: 7eb198126e500d34eb47525af68f8442
+  - enabled: 1
+    path: Assets/Examples/MainModules/videoio/VideoWriterExample/VideoWriterExample.unity
+    guid: db4338c1b3c971f4a95279c2fdb80a81
+  - enabled: 1
+    path: Assets/Examples/Basic/WebCamTextureToMatExample/WebCamTextureToMatExample.unity
+    guid: 8d8da490363d5454994df36ee27f1ddb
+  - enabled: 1
+    path: Assets/Examples/Basic/WebCamTextureToMatHelperExample/WebCamTextureToMatHelperExample.unity
+    guid: 67614e830c411104382f7bba2c0df89c
+  - enabled: 1
+    path: Assets/Examples/MainModules/imgproc/WrapPerspectiveExample/WrapPerspectiveExample.unity
+    guid: 0d99bc8e46af63640943285d7e9afdcc
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/YoloObjectDetectionExample/YoloObjectDetectionExample.unity
+    guid: bb8d876ac663ac54ea7df06fb74ac495
+  - enabled: 1
+    path: Assets/Examples/MainModules/dnn/YoloObjectDetectionExample/YoloObjectDetectionWebCamTextureExample.unity
+    guid: 6d4be42264dda2f4092a25e1ae19f2c6
+  m_configObjects: {}
