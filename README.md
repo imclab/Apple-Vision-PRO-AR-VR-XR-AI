@@ -6,7 +6,7 @@ New possibilities for collaborative creativity, education & problem solving
 Radical new forms of storytelling & data visualization
 Magic & play made possible by AR, VR, XR & AI
 ![a438ce65-b962-4ac6-aaf7-2d66373e2039-1](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/d83fe627-c9df-4040-bbbe-d8d705d223ba)
-
+### THIS REPO IS STILL UNDER CONSTRUCTION
 ## Spatial computing is THE next major paradigm shift
 Moving from tiny screens to VR to AR to R(eality) 
 Broadening horizons & augmenting life and 
@@ -109,20 +109,21 @@ https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432
 ![overview@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/bb494909-af7a-49a6-a98b-0bd8dcccb52b)
 
 
+| Left-aligned |  Right-aligned |
+| :---         |           ---: |
+| ![toppng com-instagram-logo-icon-social-media-icon-png-and-vector-make-money-on-instagram-quick-start-guide-small](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/b42e4097-383a-4098-ae0a-e4c909e55335)
+  | ![Untitled](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/8706a7ca-f48a-4d4d-98d6-8e1fb6370873) |
 
-|  [Join Our Discord](https://discord.gg/6QkcjWkT3P) |    [Check Our Gram](https://www.instagram.com/theimclab) |
-| :---                                               |                                                     ---: |
-|                                                    |                                                          |
-|   https://discord.gg/6QkcjWkT3P                    |    https://www.instagram.com/theimclab                   |
-|   ![Untitled](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/a0f1fede-29d2-4e47-b44b-18503802c8c2)   |   ![toppng com-instagram-logo-icon-social-media-icon-png-and-vector-make-money-on-instagram-quick-start-guide-small](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/64a0fc8a-af7d-4030-83d1-e81fcb258eba)   |
+https://discord.gg/6QkcjWkT3P
 
-
+![images](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/4d245a94-b6df-44f5-b2c0-8a8106844894)
 
 ## ### Video Tutorials
 | Left-aligned |  Right-aligned |
 | :---         |           ---: |
 | git status   |  git status    |
 | git diff     |  git diff      |
+| ![hqdefault(38)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/e8c473d2-dd40-4a83-8444-d02fe4325d18) | ![hqdefault(38)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/e8c473d2-dd40-4a83-8444-d02fe4325d18)   |
 | ![hqdefault(38)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/e8c473d2-dd40-4a83-8444-d02fe4325d18) | ![hqdefault(37)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/5ddb30a0-664c-4bb6-974a-e52ed5083ccb) |
 | ![hqdefault(36)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/0d2936c1-ea4f-4439-a4a3-b91c22c173d2) | ![hqdefault(35)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cdeba76c-46e0-41e1-aa0a-47ea16885aa5)
 | ![hqdefault(33)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/f2e114bd-eb56-40b4-b095-659d9fcd7672) | ![hqdefault(32)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/4e8456ff-586c-4e5b-98ed-cc39b1020b20)
