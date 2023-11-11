@@ -1,6 +1,15 @@
 # Vision-Pro-Quest-AR-VR-XR-AI
 
 Adventures in AR VR XR AI code &amp; research - VisionOS, iOS, ARfoundation, Oculus, ChatGPT, OpenCV, ML
+![1_wv65L5KTi2kKjItLat-JvA](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/6ec3583f-4422-40a3-b105-a16013c8b985)
+
+https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432f-ab17-a6405a279280
+![shared-spaces~dark@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/4f06045b-4f77-4822-a801-901c9465cc0e)
+
+![1_EFbxxoPRymjGCYUshrrvcQ](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/8727b45b-6ce2-4c2f-8e96-51d7794c2fcc)
+![1_iiLBjfJiyR2pTv8AWCUx9A](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/8e6cde41-1501-41ec-9c97-cbcf88e95377)
+
+![overview@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/bb494909-af7a-49a6-a98b-0bd8dcccb52b)
 
 
 ![a438ce65-b962-4ac6-aaf7-2d66373e2039-1](https://github.com/imclab/Vision-Pro-Quest-AR-VR-XR-AI/assets/391299/dcaefa29-fbc2-416f-b854-3841b79d2cb6)
