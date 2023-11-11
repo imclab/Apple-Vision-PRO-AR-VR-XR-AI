@@ -70,3 +70,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/XRToolkitMVP-master/Assets/Thirdparty/Gabies_Assets/Keys/Textures/Simple Key 01/Simple Key 01_Eyelets_Roughness.png.meta
+/XRToolkitMVP-master/Assets/Thirdparty.meta
+/XRToolkitMVP-master/Assets/Thirdparty/Puzzles/keyboard/Materials/Tex/keyboard_Base_BaseColor.png
