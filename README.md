@@ -123,7 +123,6 @@ https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432
 | :---         |           ---: |
 | git status   |  git status    |
 | git diff     |  git diff      |
-| ![hqdefault(38)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/e8c473d2-dd40-4a83-8444-d02fe4325d18) | ![hqdefault(38)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/e8c473d2-dd40-4a83-8444-d02fe4325d18)   |
 | ![hqdefault(38)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/e8c473d2-dd40-4a83-8444-d02fe4325d18) | ![hqdefault(37)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/5ddb30a0-664c-4bb6-974a-e52ed5083ccb) |
 | ![hqdefault(36)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/0d2936c1-ea4f-4439-a4a3-b91c22c173d2) | ![hqdefault(35)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cdeba76c-46e0-41e1-aa0a-47ea16885aa5)
 | ![hqdefault(33)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/f2e114bd-eb56-40b4-b095-659d9fcd7672) | ![hqdefault(32)](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/4e8456ff-586c-4e5b-98ed-cc39b1020b20)
