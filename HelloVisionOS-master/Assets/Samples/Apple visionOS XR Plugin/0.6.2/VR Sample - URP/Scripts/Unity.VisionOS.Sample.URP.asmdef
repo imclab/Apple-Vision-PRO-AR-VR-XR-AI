@@ -1,0 +1,25 @@
+{
+    "name": "Unity.VisionOS.Sample.URP",
+    "rootNamespace": "",
+    "references": [
+        "Unity.XR.ARFoundation",
+        "Unity.XR.VisionOS",
+        "Unity.XR.Hands",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.hands",
+            "expression": "1.1.0",
+            "define": "INCLUDE_UNITY_XR_HANDS"
+        }
+    ],
+    "noEngineReferences": false
+}

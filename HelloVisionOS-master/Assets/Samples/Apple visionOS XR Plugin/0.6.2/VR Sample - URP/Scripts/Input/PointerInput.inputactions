@@ -1,0 +1,40 @@
+{
+    "name": "InputTest",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "d9c85186-69e8-4a3a-a161-3d4c6cc1e4fa",
+            "actions": [
+                {
+                    "name": "PrimaryPointer",
+                    "type": "PassThrough",
+                    "id": "137f651a-c48c-4d8a-931a-e34a275627bc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6beadd1e-fbe7-42ca-9fcf-b2fedcf81cc7",
+                    "path": "<VisionOSSpatialPointerDevice>/primarySpatialPointer",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Default",
+                    "action": "PrimaryPointer",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Default",
+            "bindingGroup": "Default",
+            "devices": []
+        }
+    ]
+}

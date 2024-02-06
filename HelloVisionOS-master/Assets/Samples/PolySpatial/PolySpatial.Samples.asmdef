@@ -1,0 +1,40 @@
+{
+    "name": "PolySpatial.Samples",
+    "rootNamespace": "",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.PolySpatial",
+        "Unity.PolySpatial.Core",
+        "Unity.TextMeshPro",
+        "Unity.XR.ARFoundation",
+        "Unity.XR.ARSubsystems",
+        "Unity.XR.Hands",
+        "Unity.XR.Interaction.Toolkit",
+        "Unity.XR.Management"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "5.0.0",
+            "define": "UNITY_INCLUDE_ARFOUNDATION"
+        },
+        {
+            "name": "com.unity.xr.interaction.toolkit",
+            "expression": "2.3.0",
+            "define": "UNITY_INCLUDE_XRI"
+        },
+        {
+            "name": "com.unity.xr.hands",
+            "expression": "1.1.0",
+            "define": "UNITY_INCLUDE_XR_HANDS"
+        }
+    ],
+    "noEngineReferences": false
+}

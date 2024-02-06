@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89305aa391d1c5141bbe1628d930a2c5, type: 3}
+  m_Name: Tutorials
+  m_EditorClassIdentifier: 
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  ParentContainer: {fileID: 0}
+  OrderInView: 0
+  BackgroundImage: {fileID: 2800000, guid: a925cfa5ef22748b2b63c32a053c627d, type: 3}
+  Title:
+    m_Untranslated: visionOS Template
+  Subtitle:
+    m_Untranslated: TUTORIALS
+  Description:
+    m_Untranslated: 
+  ProjectLayout: {fileID: 0}
+  Sections:
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: Editor UI
+    Text:
+      m_Untranslated: Learn the Unity interface for PolySpatial
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: 15cf08a39df293c44b5dc830ffe17938, type: 3}
+    Tutorial: {fileID: 11400000, guid: f12b5aa0ed819184a8478527b503dbae, type: 2}
+  - OrderInView: 1
+    Heading:
+      m_Untranslated: Shared World Apps
+    Text:
+      m_Untranslated: Learn PolySpatial core technology
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: 42db76eca4bbc5444b2bb97417f9d9da, type: 3}
+    Tutorial: {fileID: 11400000, guid: d262a6b1282f7474da78dc85099ed110, type: 2}
+  - OrderInView: 2
+    Heading:
+      m_Untranslated: Documentation
+    Text:
+      m_Untranslated: Detailed documentation from the Unity Manual
+    Metadata: 
+    Url: https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@latest/index.html
+    Image: {fileID: 2800000, guid: f270ae2da221dde4fa2b5a1c0be77521, type: 3}
+    Tutorial: {fileID: 0}

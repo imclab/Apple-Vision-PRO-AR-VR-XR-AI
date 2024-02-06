@@ -1,0 +1,66 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "singlePackageOutput",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "includeIET",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "includeIETCards",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "LastGeneratedPackageName",
+                "value": "{\"m_Value\":\"polyspatial-project-template\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "templateName",
+                "value": "{\"m_Value\":\"PolySpatial Project Template\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "templatePackageName",
+                "value": "{\"m_Value\":\"polyspatial-project-template\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "templateVersion",
+                "value": "{\"m_Value\":\"1.0.0\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "templateDescription",
+                "value": "{\"m_Value\":\"Project template for scenes using PolySpatial, including in-editor tutorials and samples.\"}"
+            },
+            {
+                "type": "Unity.Template.Authoring.Editor.TestPlatforms, Unity.Template.Authoring.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "testPlatforms",
+                "value": "{\"m_Value\":7}"
+            },
+            {
+                "type": "Unity.Template.Authoring.Editor.UnityEditorVersions, Unity.Template.Authoring.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "testEditorVersions",
+                "value": "{\"m_Value\":128}"
+            },
+            {
+                "type": "Unity.Template.Authoring.Editor.UnityEditorVersions, Unity.Template.Authoring.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "minimumUnityVersion",
+                "value": "{\"m_Value\":128}"
+            }
+        ]
+    }
+}

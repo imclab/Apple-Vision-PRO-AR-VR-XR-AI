@@ -1,0 +1,142 @@
+{
+    "name": "PolySpatialInputActions",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "2dbea638-e09d-420b-a7ef-e4343b622ecb",
+            "actions": [
+                {
+                    "name": "PrimaryTouch",
+                    "type": "PassThrough",
+                    "id": "8e5af3df-c5f8-4a1e-b7d2-cf8465df9849",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "PrimaryTouchPhase",
+                    "type": "Value",
+                    "id": "8266884d-aa39-4b83-9830-3a4973efe355",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "SecondaryWorldTouch",
+                    "type": "PassThrough",
+                    "id": "24123604-9580-4671-9bb7-5d0ec0c949f9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SecondaryWorldTouchPhase",
+                    "type": "PassThrough",
+                    "id": "a778d40f-2ad1-4fe5-8cfb-091ada00625b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "74c3f666-c665-47f5-b043-4050eb5ec865",
+                    "path": "<SpatialPointerDevice>/primarySpatialPointer",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "46e2aa62-d6a8-4c60-85ec-aab4c1b87c94",
+                    "path": "<SpatialPointerDevice>/primarySpatialPointer/phase",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryTouchPhase",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0e375c3e-07f5-416e-8b94-58215655bbbc",
+                    "path": "<SpatialPointerDevice>/spatialPointer1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SecondaryWorldTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2e11b458-5c32-40de-9271-e22e7b43d67b",
+                    "path": "<SpatialPointerDevice>/spatialPointer1/phase",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SecondaryWorldTouchPhase",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "XRHMD",
+            "id": "e3f3d8dc-6dc0-4d1e-8f2e-82d31170ffa0",
+            "actions": [
+                {
+                    "name": "DevicePosition",
+                    "type": "PassThrough",
+                    "id": "70607691-0df9-44ae-8259-710c37de4a43",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "DeviceRotation",
+                    "type": "PassThrough",
+                    "id": "2d13d7ad-83e7-420a-aa3d-12f49acaa812",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0d6427d7-8ec4-4722-af22-80204f05c36f",
+                    "path": "<PolySpatialXRHMD>/devicePosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DevicePosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e830475f-8161-40b2-90ab-1dc682b02018",
+                    "path": "<PolySpatialXRHMD>/deviceRotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DeviceRotation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

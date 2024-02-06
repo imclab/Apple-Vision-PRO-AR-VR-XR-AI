@@ -1,0 +1,4 @@
+{
+    "displayName": "Play to Device Input Settings",
+    "description": "A settings asset for the input system package which enables input to come from the Play to Device host app when the Editor is not in the foreground. If you already have a settings asset in your project, set Background Behavior to Ignore Focus, and Play Mode Input Behavior to All Device Input Always Goes To Game View"
+}

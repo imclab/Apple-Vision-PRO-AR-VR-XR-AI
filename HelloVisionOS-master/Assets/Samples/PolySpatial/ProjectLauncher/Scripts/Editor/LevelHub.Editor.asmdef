@@ -1,0 +1,18 @@
+{
+    "name": "LevelHub.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0f0af04486226467682495b78ba51ae0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
