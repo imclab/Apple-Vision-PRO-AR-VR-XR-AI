@@ -1,6 +1,5 @@
 # AR VR XR AI code, educational resources & research 
-### Apple Vision Pro - VisionOS - Swift - Unity3D - Polyspatial - Unreal Engine - iOS - ARfoundation - Meta Quest - OpenXR - A.I. - CV - ML - MoCap - VFX
-
+### Apple Vision Pro - VisionOS - Swift - Unity3D - Polyspatial - Unreal Engine - iOS - ARfoundation - Quest - A.I.
 Code, education & research at the intersection of virtual & real, empowering: 
 - Collaborative creativity, gaming & education
 - Radical new forms of XR storytelling 
