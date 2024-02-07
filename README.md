@@ -2,12 +2,12 @@
 ## VisionOS, iOS, ARfoundation, Oculus, ChatGPT, OpenCV, ML
 
 #Projects at the intersection of virtual & real, empowering: 
-Collaborative creativity, gaming & education
-Radical new forms of XR storytelling 
-Powerful new forms of expression
-Big data visualization 
-Problem solving
-Magic & play 
+- Collaborative creativity, gaming & education
+- Radical new forms of XR storytelling 
+- Powerful new forms of expression
+- Big data visualization 
+- Problem solving
+- Magic & play 
 ![a438ce65-b962-4ac6-aaf7-2d66373e2039-1](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/d83fe627-c9df-4040-bbbe-d8d705d223ba)
 
 ## Spatial computing is THE next major paradigm shift
