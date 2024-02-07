@@ -1,5 +1,5 @@
-### AR VR XR AI code, learning & research 
-## VisionOS, iOS, ARfoundation, Oculus, ChatGPT, OpenCV, ML
+### AR VR XR AI code, educational resources & research 
+## Apple Vision Pro, VisionOS, Swift, Unity3D, Polyspatial, iOS, ARfoundation, Meta Quest, OpenXR, A.I., Dalle, ChatGPT, Stable Diffusion, OpenCV, ML, MoCap, VFX
 
 Code, education & research at the intersection of virtual & real, empowering: 
 - Collaborative creativity, gaming & education
