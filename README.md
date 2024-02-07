@@ -1,7 +1,7 @@
 ### AR VR XR AI code, learning & research 
 ## VisionOS, iOS, ARfoundation, Oculus, ChatGPT, OpenCV, ML
 
-#Projects at the intersection of virtual & real, empowering: 
+Code, education & research at the intersection of virtual & real, empowering: 
 - Collaborative creativity, gaming & education
 - Radical new forms of XR storytelling 
 - Powerful new forms of expression
