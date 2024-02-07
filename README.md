@@ -102,8 +102,6 @@ Discover the fundamentals of spatial design. Learn how to design with depth, sca
 ![Demo](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/e6ca3147-0f09-42db-bd5a-0b32abe61dd0)
 ![68747470733a2f2f692e696d6775722e636f6d2f546b31496c4f622e676966](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/04c44ed6-36f6-42a0-8f5b-bc7168f9c0c0)
 
-![1_wv65L5KTi2kKjItLat-JvA](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/6ec3583f-4422-40a3-b105-a16013c8b985)
-
 https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/cd42ae1d-d4c4-432f-ab17-a6405a279280
 ![shared-spaces~dark@2x](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/4f06045b-4f77-4822-a801-901c9465cc0e)
 
