@@ -42,7 +42,7 @@ Pricing and Availability: Starting at $3,499, available early next year in the U
 [More details](https://www.apple.com/apple-vision-pro)
 
 ### Get Vision Pro
-# Order Vision Pro from Apple or Apply for Apple Vision Pro developer kit
+# Order Vision Pro from Apple or apply for developer kit
 [https://developer.apple.com/visionos/developer-kit/](https://developer.apple.com/visionos/developer-kit/)Apple Vision Pro developer kit
 Have an innovative idea for an app or game for visionOS that requires building and testing on Apple Vision Pro? Apply for an Apple Vision Pro developer kit. This kit will help you deliver amazing spatial experiences by letting you quickly build, iterate, and test on Vision Pro.
 
