@@ -7,9 +7,26 @@ Code, education & research at the intersection of virtual & real, empowering:
 - Big data visualization 
 - Problem solving
 - Magic & play
-- 
 ![a438ce65-b962-4ac6-aaf7-2d66373e2039-1](https://github.com/imclab/Vision-PRO-AR-VR-XR-AI/assets/391299/d83fe627-c9df-4040-bbbe-d8d705d223ba)
 
+# HelloVisionOS
+A variety of demos to test all the new features Unity visionOS Platform features including PolySpatial Mixed Reality experiences.
+
+📌 Get Started With Unity visionOS PolySpatial Tools! (Apple Vision Pro Development) [step-by-step video available here](https://youtu.be/EtPaYKvzs6M).
+
+## Demo Unity Scenes (Features) 🎮
+|**Bounded Volume Camera MR Demo:**|
+|:-:|
+|Demo of what's included with HelloVisionOS_Bounded.unity scene.|
+|<img src="https://github.com/dilmerv/HelloVisionOS/blob/master/docs/images/HelloVisionOS_1.gif" width="560">|
+|<img src="https://github.com/dilmerv/HelloVisionOS/blob/master/docs/images/HelloVisionOS_2.gif" width="560">|
+
+📙 Unity visionOS & PolySpatial Resources:
+- Unity [visionOS Platform Overview](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@0.6/manual/visionOSPlatformOverview.html)
+- [Supported Versus Unsupported](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@0.6/manual/SupportedFeatures.html ) Components
+- [FAQ](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@0.5/manual/FAQ.html#q-skinned-meshes-are-not-animating) (For Common visionOS PolySpatial Issues)
+
+# Overview
 ## Spatial computing is THE next major paradigm shift
 Moving from tiny screens to VR to AR to R(eality) 
 Broadening horizons & augmenting life and 
@@ -23,14 +40,14 @@ Apple Vision Pro is a groundbreaking AR headset.
 Pricing and Availability: Starting at $3,499, available early next year in the U.S.  
 [More details](https://www.apple.com/apple-vision-pro)
 
-### Get Started
-# Apply for Apple Vision Pro developer kit
+### Get Vision Pro
+# Order Vision Pro from Apple or Apply for Apple Vision Pro developer kit
 [https://developer.apple.com/visionos/developer-kit/](https://developer.apple.com/visionos/developer-kit/)Apple Vision Pro developer kit
 Have an innovative idea for an app or game for visionOS that requires building and testing on Apple Vision Pro? Apply for an Apple Vision Pro developer kit. This kit will help you deliver amazing spatial experiences by letting you quickly build, iterate, and test on Vision Pro.
 
-# Apply for Unity Polyspatial Beta
+# Get XCode & Unity Polyspatial
+[https://developer.apple.com/xcode/](https://developer.apple.com/xcode/)
 [https://create.unity.com/spatial](https://create.unity.com/spatial)
-UNITY’S BETA PROGRAM FOR CREATING SPATIAL EXPERIENCES
 Get started with spatial creation
 Be the first to create for Apple’s visionOS platform
 Unity is excited to collaborate with Apple to bring familiar and powerful authoring tools for creating immersive games and apps for this new spatial computing platform, Apple Vision Pro. Your apps will get access to benefits such as pass-through and Dynamic Foveated Rendering, in addition to popular Unity features like AR Foundation and XR Interaction Toolkit.
